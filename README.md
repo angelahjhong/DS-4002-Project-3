@@ -1,5 +1,5 @@
 ## **Classification of Waste Images**
-**DS 4002 Project 2 Group 5**
+**DS 4002 Project 3 Group 5**
 
 ## Software and Platform 
 All code used the [Python](https://www.python.org/downloads/) language on a virtual machine in [Google Colab](https://colab.research.google.com/) 
