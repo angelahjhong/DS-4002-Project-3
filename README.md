@@ -10,7 +10,7 @@ All code used the [Python](https://www.python.org/downloads/) language on a virt
 * These links are provided for python package documentations  
   
 ## Documentation 
-Our data was pulled from [Hugging Face]([https://www.freddiemac.com/pmms](https://huggingface.co/datasets/garythung/trashnet)) 
+Our data was pulled from [Hugging Face](https://huggingface.co/datasets/garythung/trashnet) 
 * **SCRIPTS folder:** 
 * **DATA folder:** 
 * **OUTPUTS folder:** 
