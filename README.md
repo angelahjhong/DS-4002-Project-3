@@ -5,9 +5,9 @@
 All code used the [Python](https://www.python.org/downloads/) language on a virtual machine in [Google Colab](https://colab.research.google.com/) 
 
 **Packages Used:**
-* EDA & Visualization: 
-* Analysis:
-* These links are provided for python package documentations  
+* EDA & Visualization: [pandas](https://pypi.org/project/pandas/), [matplotlib](https://pypi.org/project/matplotlib/), [seaborn](https://pypi.org/project/seaborn/)  
+* Analysis: [numpy](https://numpy.org/doc/stable/user/absolute_beginners.html), [datasets](https://pypi.org/project/datasets/), [collections.Counter](https://docs.python.org/3/library/collections.html#collections.Counter), [Pillow (ImageStat)](https://pillow.readthedocs.io/en/stable/reference/ImageStat.html)  
+* These links are provided for Python package documentation.
   
 ## Documentation 
 Our data was pulled from [Hugging Face](https://huggingface.co/datasets/garythung/trashnet) 
