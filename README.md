@@ -17,7 +17,7 @@ Our data was pulled from [Hugging Face](https://huggingface.co/datasets/garythun
 
 ## How to Reproduce Results 
 **To reproduce these results:**
-* 
+
 - First follow to instructions to download the data - located in our DATA folder under "ImageData_CleaningEDA.ipynb"
 - Run the file titled "ImageData_CleaningEDA.ipynb" - located in our DATA or SCRIPTS folder, to view how to go from the raw to clean data and view our EDA
 - Run the file titled "ImageDara_Analysis.ipynb" - located in our SCRIPTS folder, to view the CNN model training
