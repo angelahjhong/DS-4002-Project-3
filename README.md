@@ -11,7 +11,7 @@ All code used the [Python](https://www.python.org/downloads/) language on a virt
   
 ## Documentation 
 Our data was pulled from [Hugging Face](https://huggingface.co/datasets/garythung/trashnet) 
-* **SCRIPTS folder:** 
+* **SCRIPTS folder:** contains "ImageDara_Analysis.ipynb" and "ImageData_CleaningEDA.ipynb"
 * **DATA folder:**  contains "ImageData_CleaningEDA.ipynb" which includes data cleaning and intial EDA
 * **OUTPUTS folder:** 
 
