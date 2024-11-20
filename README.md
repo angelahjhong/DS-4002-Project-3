@@ -13,7 +13,7 @@ All code used the [Python](https://www.python.org/downloads/) language on a virt
 Our data was pulled from [Hugging Face](https://huggingface.co/datasets/garythung/trashnet) 
 * **SCRIPTS folder:** contains "ImageDara_Analysis.ipynb" which includes the CNN model training and "ImageData_CleaningEDA.ipynb" which includes the data cleaning and EDA.
 * **DATA folder:**  contains "ImageData_CleaningEDA.ipynb" which includes data cleaning and initial EDA.
-* **OUTPUTS folder:** 
+* **OUTPUTS folder:** "ResultsAppendix.pdf" which stores the visualized figures and statistical analysis computed from our analysis.
 
 ## How to Reproduce Results 
 **To reproduce these results:**
